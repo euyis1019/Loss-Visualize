@@ -1,3 +1,4 @@
 # Loss Visualize
- A funny tool for Loss visualization
+A funny tool for Loss visualization
+
 Coming Soon
